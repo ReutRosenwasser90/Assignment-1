@@ -1,4 +1,4 @@
-function greetFriend(name) {
+function greetFriend(David) {
   // Insert code here;
 }
 
